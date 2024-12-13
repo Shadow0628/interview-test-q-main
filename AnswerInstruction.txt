@@ -1,0 +1,3 @@
+#To run the program 
+#Please type "yarn" at the position of the project file first
+#Then type "npm run build && npm run start" to activate in localhost
